@@ -1,8 +1,7 @@
 # weather_app
 
-# Weather App
 
-##App Features:
+## App Features:
 
 • Daily Weather Info based on your current location + 3-hour forecasts for up to 5 days.
 
