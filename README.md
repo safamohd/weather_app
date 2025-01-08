@@ -1,16 +1,29 @@
 # weather_app
 
-A new Flutter project.
+# Weather App
 
-## Getting Started
+##App Features:
 
-This project is a starting point for a Flutter application.
+• Daily Weather Info based on your current location + 3-hour forecasts for up to 5 days.
+•	Weekly Weather Forecast for the next 7 days.
+•	Search Weather in any city worldwide, along with a list of popular cities’ weather.
+•	Detailed Weather Information like wind speed, humidity, and more.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Dependencies 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+1 - [dio](https://pub.dev/packages/dio)
+2- [flutter_riverpod](https://pub.dev/packages/flutter_riverpod)
+3- [jiffy]{https://pub.dev/packages/jiffy}
+4- [geolocator](https://pub.dev/packages/geolocator)
+5-[flutter_dotenv](https://pub.dev/packages/flutter_dotenv)
+
+
+
+
+
+
+
+
